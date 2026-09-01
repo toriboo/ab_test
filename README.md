@@ -58,7 +58,7 @@
 1. Скачайте репозиторий.
 2. Установите необходимые библиотеки:  
    `pip install pandas numpy matplotlib statsmodels`
-3. Откройте `ab_test_analysis.ipynb` в Jupyter Notebook или VS Code.
+3. Откройте `ab_test.ipynb` в Jupyter Notebook или VS Code.
 4. Запустите все ячейки.
 
 ---
