@@ -47,7 +47,7 @@
 
 ## 📂 Файлы в репозитории
 
-- `ab_test.ipynb` — ноутбук с полным анализом
+- `AB_test.ipynb` — ноутбук с полным анализом
 - `README.md` — описание проекта
 
 ---
@@ -57,7 +57,7 @@
 1. Скачайте репозиторий.
 2. Установите необходимые библиотеки:  
    `pip install pandas numpy matplotlib statsmodels`
-3. Откройте `ab_test.ipynb` в Jupyter Notebook или VS Code.
+3. Откройте `AB_test.ipynb` в Jupyter Notebook или VS Code.
 4. Запустите все ячейки.
 
 ---
